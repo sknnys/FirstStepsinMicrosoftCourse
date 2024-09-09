@@ -1,7 +1,6 @@
-# MysqlStoredProcedures
-Course Stored Procedures with MySQL
+# Course Stored Procedures with MySQL
 
-**1. Fundamentos de C#**
+# 1. Fundamentos de C#**
   **Introdução ao C#**
 - Ambiente de Desenvolvimento (Visual Studio(CODESPACE))
 - Sintaxe Básica
