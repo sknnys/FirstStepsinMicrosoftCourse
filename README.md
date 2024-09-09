@@ -1,19 +1,17 @@
-# Get started with C#
-
 # Fundamentos de C#**
 **1. Introdução ao C#**
-- Ambiente de Desenvolvimento (Visual Studio(CODESPACE))
-- Sintaxe Básica
-- Estrutura de um programa C#
-- Tipos de dados e variáveis
-- Operadores e expressões
-- Controle de Fluxo
-- Condicionais (if, else, switch)
-- Laços de repetição (for, while, foreach)
-- Métodos e Funções
-- Declaração e chamada de métodos
-- Parâmetros e retornos
-- Sobrecarga de métodos
+  - Ambiente de Desenvolvimento (Visual Studio(CODESPACE))
+  - Sintaxe Básica
+  - Estrutura de um programa C#
+  - Tipos de dados e variáveis
+  - Operadores e expressões
+  - Controle de Fluxo
+  - Condicionais (if, else, switch)
+  - Laços de repetição (for, while, foreach)
+  - Métodos e Funções
+  - Declaração e chamada de métodos
+  - Parâmetros e retornos
+  - Sobrecarga de métodos
 
 **2. Programação Orientada a Objetos (POO)**
 - Classes e Objetos
