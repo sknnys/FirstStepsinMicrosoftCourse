@@ -1,24 +1,17 @@
-﻿// Program.cs
-using System;
+﻿using System;
 
-class Program
-{
-    static void Main(string[] args)
-    {
-        Soma soma = new Soma();
-
-        // Chama o método DisplayMessage da classe AulaCourse
-        Console.WriteLine("Mensagem de \"Mensagem:\"");
+public class Program {
+    public static void Main() {
+        Console.WriteLine("Iniciando o programa...");
         Mensagem.DisplayMessage();
-        Console.WriteLine("\nMensagem de \"FormatMensagem:\"");
-        FormatMensagem.DisplayMessage();
+        Console.WriteLine("Mensagem exibida.");
+        Soma soma = new Soma();
+        Console.WriteLine(soma.SomaDoisValores(2, 3));
         Unicode.DisplayMessage();
+        FormatMensagem.DisplayMessage();
         Concat.DisplayConcat();
-        Interpolation.DisplayInterpolation();
-        Teste.DisplayTeste();
-        double resultado = soma.SomaDoisValores(7,3);
-        
-        double final = (resultado / 100);
-        Console.WriteLine("resultado divido: "+final);
+        Console.WriteLine("Programa concluído.");
+        DecimalQuotient.DisplayMessage();
+        RestoDivisao.DisplayMessage();
     }
 }

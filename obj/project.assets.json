@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/MysqlStoredProcedures/MysqlStoredProcedures.csproj",
-      "projectName": "MysqlStoredProcedures",
-      "projectPath": "/workspaces/MysqlStoredProcedures/MysqlStoredProcedures.csproj",
+      "projectUniqueName": "/workspaces/FirstStepsinMicrosoftCourse/FirstStepsinMicrosoftCourse.csproj",
+      "projectName": "FirstStepsinMicrosoftCourse",
+      "projectPath": "/workspaces/FirstStepsinMicrosoftCourse/FirstStepsinMicrosoftCourse.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/MysqlStoredProcedures/obj/",
+      "outputPath": "/workspaces/FirstStepsinMicrosoftCourse/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"

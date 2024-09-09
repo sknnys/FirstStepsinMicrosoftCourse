@@ -1,0 +1,15 @@
+/workspaces/FirstStepsinMicrosoftCourse/obj/Debug/net8.0/FirstStepsinMicrosoftCourse.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/FirstStepsinMicrosoftCourse/obj/Debug/net8.0/FirstStepsinMicrosoftCourse.AssemblyInfoInputs.cache
+/workspaces/FirstStepsinMicrosoftCourse/obj/Debug/net8.0/FirstStepsinMicrosoftCourse.AssemblyInfo.cs
+/workspaces/FirstStepsinMicrosoftCourse/obj/Debug/net8.0/FirstStepsinMicrosoftCourse.csproj.CoreCompileInputs.cache
+/workspaces/FirstStepsinMicrosoftCourse/obj/Debug/net8.0/FirstStepsinMicrosoftCourse.sourcelink.json
+/workspaces/FirstStepsinMicrosoftCourse/bin/Debug/net8.0/FirstStepsinMicrosoftCourse
+/workspaces/FirstStepsinMicrosoftCourse/bin/Debug/net8.0/FirstStepsinMicrosoftCourse.deps.json
+/workspaces/FirstStepsinMicrosoftCourse/bin/Debug/net8.0/FirstStepsinMicrosoftCourse.runtimeconfig.json
+/workspaces/FirstStepsinMicrosoftCourse/bin/Debug/net8.0/FirstStepsinMicrosoftCourse.dll
+/workspaces/FirstStepsinMicrosoftCourse/bin/Debug/net8.0/FirstStepsinMicrosoftCourse.pdb
+/workspaces/FirstStepsinMicrosoftCourse/obj/Debug/net8.0/FirstStepsinMicrosoftCourse.dll
+/workspaces/FirstStepsinMicrosoftCourse/obj/Debug/net8.0/refint/FirstStepsinMicrosoftCourse.dll
+/workspaces/FirstStepsinMicrosoftCourse/obj/Debug/net8.0/FirstStepsinMicrosoftCourse.pdb
+/workspaces/FirstStepsinMicrosoftCourse/obj/Debug/net8.0/FirstStepsinMicrosoftCourse.genruntimeconfig.cache
+/workspaces/FirstStepsinMicrosoftCourse/obj/Debug/net8.0/ref/FirstStepsinMicrosoftCourse.dll
