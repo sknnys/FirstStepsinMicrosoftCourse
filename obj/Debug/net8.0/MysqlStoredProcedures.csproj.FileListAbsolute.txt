@@ -1,0 +1,15 @@
+/workspaces/MysqlStoredProcedures/bin/Debug/net8.0/MysqlStoredProcedures
+/workspaces/MysqlStoredProcedures/bin/Debug/net8.0/MysqlStoredProcedures.deps.json
+/workspaces/MysqlStoredProcedures/bin/Debug/net8.0/MysqlStoredProcedures.runtimeconfig.json
+/workspaces/MysqlStoredProcedures/bin/Debug/net8.0/MysqlStoredProcedures.dll
+/workspaces/MysqlStoredProcedures/bin/Debug/net8.0/MysqlStoredProcedures.pdb
+/workspaces/MysqlStoredProcedures/obj/Debug/net8.0/MysqlStoredProcedures.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/MysqlStoredProcedures/obj/Debug/net8.0/MysqlStoredProcedures.AssemblyInfoInputs.cache
+/workspaces/MysqlStoredProcedures/obj/Debug/net8.0/MysqlStoredProcedures.AssemblyInfo.cs
+/workspaces/MysqlStoredProcedures/obj/Debug/net8.0/MysqlStoredProcedures.csproj.CoreCompileInputs.cache
+/workspaces/MysqlStoredProcedures/obj/Debug/net8.0/MysqlStoredProcedures.sourcelink.json
+/workspaces/MysqlStoredProcedures/obj/Debug/net8.0/MysqlStoredProcedures.dll
+/workspaces/MysqlStoredProcedures/obj/Debug/net8.0/refint/MysqlStoredProcedures.dll
+/workspaces/MysqlStoredProcedures/obj/Debug/net8.0/MysqlStoredProcedures.pdb
+/workspaces/MysqlStoredProcedures/obj/Debug/net8.0/MysqlStoredProcedures.genruntimeconfig.cache
+/workspaces/MysqlStoredProcedures/obj/Debug/net8.0/ref/MysqlStoredProcedures.dll
